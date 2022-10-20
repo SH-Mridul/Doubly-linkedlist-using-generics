@@ -139,7 +139,7 @@ public class Linkedlist<T> {
 		return data;
 	}
 	
-	
+	// list to array
 	public Object[] toArray()
 	{
 		Object items[] = new Object[size];
